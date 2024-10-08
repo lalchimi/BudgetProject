@@ -1,0 +1,1 @@
+java -jar target/BudgetProject-0.0.1-SNAPSHOT.jar 

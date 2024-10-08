@@ -1,4 +1,9 @@
 Manifest-Version: 1.0
 Build-Jdk-Spec: 22
+Specification-Title: BudjetProject
+Specification-Version: 0.0
+Implementation-Title: BudjetProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: App
 Created-By: Maven Integration for Eclipse
 
